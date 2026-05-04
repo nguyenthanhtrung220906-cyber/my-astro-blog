@@ -7,43 +7,89 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
 <!doctype html>
 <html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<Header />
-		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This template
-				serves as a lightweight, minimally-styled starting point for anyone looking to build a personal
-				website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
-		</main>
-		<Footer />
-	</body>
+    <head>
+        <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+        <style>
+            /* Thêm tí CSS bùa phép cho giao diện sang xịn mịn */
+            .hero-section {
+                text-align: center;
+                padding: 2em 0;
+            }
+            .highlight-text {
+                color: transparent;
+                background-clip: text;
+                -webkit-background-clip: text;
+                background-image: linear-gradient(90deg, #007bff, #8b5cf6); /* Gradient xanh tím công nghệ */
+                font-weight: 800;
+            }
+            .subtitle {
+                font-size: 1.2em;
+                color: #555;
+                margin-bottom: 1.5em;
+            }
+            .cta-buttons {
+                display: flex;
+                gap: 1em;
+                justify-content: center;
+                margin: 2em 0;
+            }
+            .btn {
+                padding: 0.8em 1.5em;
+                border-radius: 8px;
+                text-decoration: none;
+                font-weight: bold;
+                transition: transform 0.2s, box-shadow 0.2s;
+            }
+            .btn:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            }
+            .btn-primary {
+                background: #111;
+                color: #fff;
+            }
+            .btn-outline {
+                border: 2px solid #111;
+                color: #111;
+            }
+            .features {
+                margin-top: 3em;
+                padding-top: 2em;
+                border-top: 1px solid #eaeaea;
+            }
+            .features ul {
+                list-style-type: none;
+                padding: 0;
+            }
+            .features li {
+                margin-bottom: 1em;
+                font-size: 1.1em;
+            }
+        </style>
+    </head>
+    <body>
+        <Header />
+        <main>
+            <div class="hero-section">
+                <h1>Hi, mình là <span class="highlight-text">Thành Trung</span> </h1>
+                <p class="subtitle">
+                    Sinh viên IT ban ngày  — Gamer & Reviewer về đêm 
+                </p>
+                <p>
+                    Quên những bài đọc thông số nhàm chán đi. Ở đây, mình "mổ xẻ" đồ công nghệ, review thiết bị và chia sẻ góc nhìn thực tế nhất dưới con mắt của một người trực tiếp gõ code và cày cuốc game hardcore. Thô nhưng thật!
+                </p>
+                
+                <div class="cta-buttons">
+                    <a href="/blog" class="btn btn-primary">Đọc Blog</a>
+                    <a href="/about" class="btn btn-outline">Về mình</a>
+                </div>
+            </div>
+
+            <div class="features">
+                
+                
+            </div>
+        </main>
+        <Footer />
+    </body>
 </html>

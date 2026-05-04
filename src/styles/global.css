@@ -3,7 +3,22 @@
   https://github.com/HermanMartinus/bearblog/blob/297026a877bc2ab2b3bdfbd6b9f7961c350917dd/templates/styles/blog/default.css
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
  */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;700&display=swap');
 
+/* Ép toàn bộ web dùng font Inter cho chữ thường */
+body {
+    font-family: 'Inter', sans-serif !important;
+}
+
+/* Các thẻ tiêu đề cũng phải xài Inter cho đồng bộ */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', sans-serif !important;
+}
+
+/* Riêng mấy đoạn code thì dùng JetBrains Mono cho chiến */
+code, pre {
+    font-family: 'JetBrains Mono', monospace !important;
+}
 :root {
 	--accent: #2337ff;
 	--accent-dark: #000d8a;
