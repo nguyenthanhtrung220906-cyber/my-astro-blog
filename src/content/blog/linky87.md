@@ -1,72 +1,135 @@
 ---
-title: 'Đánh giá Linky 87 TKL: "Kẻ hủy diệt" phân khúc phím cơ giá rẻ cho Coder?'
-description: 'Review chi tiết bàn phím Linky 87: Layout TKL 87 phím, kết nối 3-mode linh hoạt và khả năng modding vô hạn cho người mới bắt đầu.'
-pubDate: 'May 03 2026'
+title: 'Đánh giá ElecFox Linky 87: Chiếc phím "Vua ngân sách" có thực sự làm nên chuyện?'
+description: 'Review chi tiết ElecFox Linky 87: Bàn phím cơ giá rẻ trang bị Gasket Mount, Hotswap, và phần mềm VIA.'
+pubDate: 'May 05 2026'
 heroImage: '../../assets/linky1.jpg'
 ---
 
-Nếu bạn là một sinh viên IT đang tìm kiếm chiếc bàn phím cơ đầu tiên để "nhập môn" mà không muốn làm rỗng túi tiền, **Linky 87** chắc chắn là cái tên không thể bỏ qua. Sau một thời gian dài sử dụng và trực tiếp "phẫu thuật" để modding, mình sẽ chia sẻ góc nhìn chi tiết về chiếc phím TKL (Tenkeyless) đầy thú vị này.
+### Tổng Quan Nhỏ Gọn Nhưng Đầy Đủ "Đồ Chơi"
 
-### 1. Thông số kỹ thuật cơ bản (Quick Specs)
+Gõ phím cao su laptop mỏi nhừ tay nhưng lại xót ví không dám đu trend phím cơ? Đừng lo **Linky87 (ElecFox Linky 87 / Linky 87 TKL / Pro)** mang thiết kế Tenkeyless (TKL - 87 phím) kinh điển. Đây được xem là "tỷ lệ vàng" cho những ai muốn sự gọn gàng nhưng vẫn cần đầy đủ hàng phím F (F1-F12) và cụm phím điều hướng để làm việc. 
 
-| Đặc tính | Chi tiết |
-| :--- | :--- |
-| **Layout** | TKL - 87 phím |
-| **Kết nối** | 3-mode (Wired USB-C, 2.4G Wireless, Bluetooth) |
-| **Switch** | Mechanical Switch (Hỗ trợ Hotswap) |
-| **Keycap** | ABS (Mặc định) / Có thể nâng cấp lên PBT |
-| **Đèn nền** | LED RGB với nhiều hiệu ứng tùy chỉnh |
+Phím cơ dưới 1 triệu giờ không còn là “phím cho có” nữa.
+Và ElecFox Linky87 là một trong số ít những con khiến mình bất ngờ khi trải nghiệm thực tế.
 
----
+![Thiết kế layout 87 phím gọn gàng của Linky87](../../assets/linky2.jpg)
+    *Thiết kế gọn gàng với layout 87 phím*
 
-### 2. Layout TKL: Sự cân bằng hoàn hảo cho không gian làm việc
-
-Với một người thường xuyên phải mở song song cửa sổ IDE và trình duyệt để tra tài liệu như mình, layout 87 phím (TKL) là lựa chọn tối ưu. 
-*   **Tiết kiệm diện tích:** Việc loại bỏ cụm phím số bên phải giúp bàn làm việc gọn gàng hơn, tạo không gian rộng rãi để vẩy chuột trong các trận game FPS căng thẳng.
-*   **Đầy đủ công năng:** Bạn vẫn giữ được hàng phím F và cụm phím điều hướng độc lập, cực kỳ quan trọng khi thực hiện các thao tác điều hướng dòng code nhanh.
-
-![Layout 87 phím gọn gàng trên bàn làm việc](../../assets/linky2.jpg)
-*Hình 1: Linky 87 giúp tối ưu không gian cho cả việc học tập và giải trí.*
+Nhắm đến phân khúc **dưới 1 triệu (~810.000đ - 990.000đ)**, chiếc bàn phím này được trang bị các chức năng cực kỳ đáng tiền: **Kết nối 3-mode** (Cắm dây Type-C, Bluetooth 5.0 và Wireless 2.4GHz). Bạn có thể mang nó ra quán cà phê code bài, hoặc cắm dây ở nhà để try-hard game mà không gặp bất kỳ trở ngại nào.
 
 ---
 
-### 3. Kết nối 3-Mode: Tự do và Linh hoạt
+### Trải Nghiệm Thực Tế: Vượt Xa Sự Mong Đợi Ở Tầm Giá
 
-Điểm sáng giá nhất của Linky 87 chính là khả năng kết nối đa phương thức:
-1.  **Wired:** Dùng khi chơi game cần độ trễ bằng 0.
-2.  **2.4G Wireless:** Cắm receiver vào laptop Lenovo LOQ 15 để làm việc gọn gàng mà vẫn đảm bảo tốc độ phản hồi nhanh.
-3.  **Bluetooth:** Chuyển đổi nhanh chóng để gõ văn bản trên máy tính bảng hoặc điện thoại.
+#### 1. Cảm Giác Gõ (Typing Feel)
 
-Việc chuyển đổi giữa các thiết bị diễn ra khá mượt mà qua các tổ hợp phím tắt, giúp tối ưu hóa hiệu suất làm việc đa nhiệm.
+Đây là điểm khác biệt lớn nhất của Linky87 so với các mẫu phím giá rẻ khác.
+Thay vì kiểu build "rỗng" thông thường, con này được trang bị:
+- Gasket mount
+- PCB & Plate có Flex-cut (PCB dày 1.2mm)
+- Full foam (Rogers foam + IXPE switch pad)
+
+=> Kết quả: cảm giác gõ mềm, có độ nhún (bounce) và không bị cứng tay khi gõ lâu.
+
+Switch mặc định là BSUN TaiChi (Linear):
+- Lực nhấn ~40±5gf (khá nhẹ)
+- Hành trình ~3.6mm
+- Đã được lube sẵn từ nhà máy
+
+Trải nghiệm thực tế: gõ mượt, gần như không có cảm giác scratchy như các dòng switch stock rẻ tiền.
+
+Ngoài ra, mạch Hotswap toàn diện cho phép bạn thay switch cực dễ mà không cần rã hàn.
+
+---
+
+#### 2. Hiệu Suất Chơi Game
+
+Việc chơi game bằng Linky87 mang lại độ phản hồi rất tốt. Khi cắm dây hoặc dùng receiver 2.4G, độ trễ gần như bằng 0.
+
+- Polling rate: 1000Hz
+- Anti-Ghosting toàn phím
+
+Những pha xử lý nhanh trong *Valorant* hay spam phím trong *Elden Ring* đều được ghi nhận chính xác.
 
 ---
 
-### 4. Khả năng Modding: Sân chơi cho những người yêu kỹ thuật
+#### 3. Âm Thanh (Sound Profile)
 
-Linky 87 không chỉ là một chiếc bàn phím mua về là dùng; nó là một "phôi" tuyệt vời để bạn cá nhân hóa. Với kinh nghiệm thực tế của mình, đây là những gì bạn nên làm để nâng tầm trải nghiệm:
+Khác với nhiều phím giá rẻ có âm rỗng (hollow), Linky87 cho âm thanh:
 
-*   **Vệ sinh & Lube Switch:** Việc định kỳ vệ sinh và bôi trơn lại switch/stabilizer giúp tiếng gõ trở nên êm ái, giảm thiểu tiếng "lạch cạch" khó chịu.
-*   **Nâng cấp Keycap PBT:** Keycap ABS mặc định rất dễ bám mồ hôi và bị bóng sau thời gian ngắn. Việc thay thế bằng bộ **Keycap PBT** không chỉ giúp phím bền hơn mà còn cải thiện đáng kể cảm giác xúc giác khi đầu ngón tay tiếp xúc với phím.
+Thocky – trầm, đục và khá “kem” ngay từ stock
 
-![Sau khi đã nâng cấp Keycap PBT và vệ sinh sạch sẽ](../../assets/linky3.jpg)
-*Hình 2: Có thể dễ dàng tháo lắp để vệ sinh bàn phím và thay switch hoặc keycap theo sở thích.*
+Lý do:
+- Full foam
+- Stabilizer plate-mount đã được lube sẵn
+
+=> Các phím dài như Space, Enter gần như không có tiếng lạch cạch hay "ting" kim loại.
+
+Điểm này cực hiếm ở tầm giá dưới 1 triệu.
+
+---
+
+#### 4. Chất Lượng Hoàn Thiện (Build Quality)
+
+- Case nhựa ABS → nhẹ nhưng vẫn chắc chắn  
+- Trọng lượng ~980g → đủ đầm, không bị xê dịch khi gõ  
+
+Lưu ý thực tế:
+- Độ dốc khá cao (mặt sau ~33.5mm)  
+→ nếu gõ lâu dễ mỏi cổ tay  
+
+Khuyên: nên dùng thêm wrist rest
 
 ---
 
-### 5. Tổng kết: Có đáng mua cho sinh viên IT?
+### Ưu Điểm & Nhược Điểm 
 
-#### Ưu điểm
-*   Giá thành cực kỳ dễ tiếp cận cho sinh viên.
-*   Kết nối 3-mode ổn định, linh hoạt cho nhiều thiết bị.
-*   Layout TKL 87 phím thực dụng cho cả code và game.
-*   Dễ dàng tháo lắp để vệ sinh và modding theo ý thích.
+**Ưu điểm:**
+*   **P/P cực cao:** Gasket mount + full foam + VIA trong tầm giá này là rất hiếm  
+*   **Âm thanh stock rất ngon:** Thocky ngay từ hộp, không cần mod  
+*   **Layout TKL thực dụng**  
+*   **Pin 4000mAh:** Dùng thực tế khoảng 2–3 tuần  
+*   **Hỗ trợ QMK/VIA:** Custom cực sâu (remap, macro, layer)
 
-#### Nhược điểm
-*   Chất lượng hoàn thiện lớp vỏ nhựa ở mức trung bình.
-*   Switch và stabilizer mặc định cần được tinh chỉnh lại để đạt độ mượt tốt nhất.
+**Nhược điểm:**
+*   **Case nhựa:** Không mang lại cảm giác cao cấp như nhôm  
+*   **LED RGB hơi tối:** Không rực kiểu gaming  
+*   **Hotswap hơi lỏng:** Có thể kéo theo switch khi tháo keycap  
+*   **Độ dốc cao:** Dễ mỏi nếu không dùng kê tay  
 
-### Nhận định của Trung
-**Linky 87** là chiếc bàn phím "quốc dân" dành cho những ai thích mày mò và tối ưu hóa thiết bị. Nếu bạn sẵn sàng bỏ chút thời gian để modding và chăm sóc, nó sẽ mang lại trải nghiệm gõ phím vượt xa giá trị số tiền bạn bỏ ra ban đầu.
+![Cận cảnh chi tiết Switch và Keycap của Linky87](../../assets/linky3.jpg)
+*Cận cảnh chi tiết Switch và Keycap của Linky87*
 
 ---
-*Nếu anh em cần tư vấn về các loại switch hay cách chọn keycap PBT cho Linky 87, cứ ping mình qua Zalo nhé!* ⌨️😎
+
+### So Sánh Nhanh: Linky87 Đứng Ở Đâu?
+
+Nếu đặt lên bàn cân với **RK87 (Royal Kludge)**:
+- RK87: build hoàn thiện nhỉnh hơn  
+- Linky87:  
+  => Có thể ăn đứt về trải nghiệm gõ + âm thanh + VIA + giá
+
+So với các layout 68%:
+- Nhỏ hơn nhưng thiếu F-row  
+- Linky87: đa dụng hơn cho cả code và game  
+
+---
+
+### Chốt Hạ: Có Đáng Mua Không?
+
+Câu trả lời là **CÓ**.
+
+Linky87 không phải là một chiếc bàn phím hoàn hảo không tì vết. Nhưng xét trên hệ quy chiếu giá cả, những gì nó mang lại thực sự vượt kỳ vọng:
+
+- Gõ mềm, nhún (Gasket + flex-cut)  
+- Âm thocky sẵn  
+- VIA custom xịn  
+- 3-mode tiện lợi  
+  
+**Đây là một trong những con phím “ngon sẵn” hiếm hoi trong tầm giá dưới 1 triệu.**
+
+---
+
+**Nếu bạn đang tìm một con phím “mua về là gõ sướng ngay” mà không cần mod, thì Linky87 là lựa chọn rất khó bỏ qua ở tầm giá này.**
+
+[Xem giá sản phẩm tại đây](https://www.elecfox.co/products/linky-87-tkl-customized-mechanical-keyboard-87-keys-wired-wireless-bluetooth-led-gaming-keyboard)
